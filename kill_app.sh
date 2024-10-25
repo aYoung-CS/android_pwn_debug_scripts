@@ -1,0 +1,1 @@
+kill -9 `./busybox pidof com.avss.testallocator`
